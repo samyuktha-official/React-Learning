@@ -44,6 +44,10 @@ body{
     
 
 }
+li::marker{
+     color: rgb(222, 100, 18);
+     font-size: 2rem;
+}
 
 #react-logo{
     width: 500;
